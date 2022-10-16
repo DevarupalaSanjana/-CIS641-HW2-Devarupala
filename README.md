@@ -13,5 +13,5 @@ I was very much influenced by Hadoop in my Big Data sessions even though all i k
 
 
 # project description
-## our project is a ecommerce website whch has the following features
+## Our project is a ecommerce website whch has the following features
 
