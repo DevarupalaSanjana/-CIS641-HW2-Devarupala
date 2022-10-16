@@ -14,7 +14,8 @@ I was very much influenced by Hadoop in my Big Data sessions even though all i k
 
 ## Project Description
 Our project is a ecommerce website which has features such as login, search bar, adding items to cart summing the prices of the items and displaying, proceeding to payment and cheching out.
-We have also have features like wishlist and favorites too. We wish to provide easy window shopping options to the users with various categories. 
+We have also have features like wishlist and favorites too.
+We wish to provide easy window shopping options to the users with various categories. 
 This website has been built with the hope of providing user friendly and platform adaptable website to the user.
 
 
