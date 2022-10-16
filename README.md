@@ -12,6 +12,9 @@ I was very much influenced by Hadoop in my Big Data sessions even though all i k
 ![My favorite meme...](https://img.wattpad.com/4dbac67592424e1d2771a66a0a25012716d981cc/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f494f5837526b39345f5a7a3130413d3d2d3333372e313631613766643335343938666362393633373437373834303036352e6a7067?s=fit&w=720&h=720) 
 
 
-# project description
-## Our project is a ecommerce website whch has the following features
+## Project Description
+Our project is a ecommerce website which has features such as login, search bar, adding items to cart summing the prices of the items and displaying, proceeding to payment and cheching out.
+We have also have features like wishlist and favorites too. We wish to provide easy window shopping options to the users with various categories. 
+This website has been built with the hope of providing user friendly and platform adaptable website to the user.
+
 
